@@ -1,4 +1,4 @@
-# -Segmenting-and-Clustering-Neighbourhoods-in-Toronto
+# Segmenting-and-Clustering-Neighbourhoods-in-Toronto
 
 1. Visualization of neighbourhoods in Canada whose borough containing the word 'Toronto'
 
